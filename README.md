@@ -45,9 +45,5 @@ This project extracts, transforms, and loads (ETL) data from **Spotify API** int
 3. Glue Crawler creates **schema metadata**.
 4. Athena enables **querying data directly from S3**.
 
-## **Future Enhancements**
-- Integrate **Amazon QuickSight** for visualization.
-- Implement **data quality checks** in AWS Lambda.
-
 ---
 This architecture is fully **serverless, automated, and scalable**, leveraging **AWS Cloud** services for seamless data processing. 🚀
