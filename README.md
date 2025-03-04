@@ -18,6 +18,8 @@ This project extracts, transforms, and loads (ETL) data from **Spotify API** int
    - Schema is stored in **AWS Glue Data Catalog**.
    - **Amazon Athena** enables SQL queries on S3 data.
 
+![Architecture Diagram](https://github.com/Yash-Tokas/Spotify-ETL/blob/main/architecture.png)
+
 ## **Technologies Used**
 - **Spotify API** (Data Source)
 - **AWS Lambda** (Serverless Compute)
